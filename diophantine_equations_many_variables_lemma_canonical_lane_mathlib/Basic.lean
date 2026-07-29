@@ -1,0 +1,2 @@
+import diophantine_equations_many_variables_lemma_canonical_lane_mathlib.GateLemmas
+import diophantine_equations_many_variables_lemma_canonical_lane_mathlib.FinalTheorem
